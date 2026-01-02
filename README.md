@@ -1,0 +1,2 @@
+This project was made by using powerBI . First i clean the data using Mysql after that i export the dataset in powerBI and made dashboard using different types of charts , slicers , cards, shapes and many more things.
+after that i run this dashboard in real time. for make this project in real time i use one drive . i add dataset in one drive and when i made any changes in this dataset then it automatically affected on dashboard .
